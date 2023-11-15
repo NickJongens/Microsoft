@@ -6,3 +6,6 @@ A list of Microsoft related scripts including Microsoft 365, Entra ID, Security 
 
 ## Microsoft 365/Entra ID
 - Microsoft 365/EntraID Offboarding Script for fully cloud users.
+
+## Security & Compliance
+- Attack Simulator Templates.
